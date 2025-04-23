@@ -1,0 +1,10 @@
+            ,
+
+            "Activiy Log": 
+            {"visible": lambda:is_admin(), # Visible only to admin
+             "columns": ("User", "Message", "Timestamp"),
+             "query": """
+                        SELECT User, Message, Timestamp FROM Log
+                    """
+
+            }

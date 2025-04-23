@@ -1,0 +1,44 @@
+- EDIT functions
+- Search by substring
+- Output reports
+- validation for every input
+- polish code and documentation
+
+extra credit:
+
+- bootrap tkinter implimentation
+- Zoom video ready by next thursday
+- registration steps - text verification? (would be awesome)
+
+
+CPT187: Object-Oriented Logic and Design
+
+1 Project works according to specifications 10
+
+2 SQLite relational database well designed and normalized 10
+
+3 Code does not generate any errors or exceptions 10
+
+4 Project is logical and well designed for ease of operation 10
+
+5 Interface input screens allow for access to all relavent fields 10
+
+6 Users and admin can search all data by substring 10
+
+7 Users can edit data they created but not other users data 10
+
+8 Output reports are detailed and professional 10
+
+9 Proper data validation of all input data 10
+
+10 Well commented code documentation per instructions 10
+
+TOTAL REQUIRED POINTS 100
+EXTRA CREDIT (*extra_credit.txt documentation file required):
+11 Submitted at least one week early* 10
+12 Additional Feature 1; student added; must be documented* 10
+13 Additional Feature 2; student added; must be documented* 10
+14 Additional Feature 3; student added; must be documented* 10
+15 Additional Feature 4; student added; must be documented* 10
+TOTAL BONUS POINTS 50
+TOTAL FINAL PROJECT POINTS 150
